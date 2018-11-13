@@ -1,0 +1,25 @@
+/* position */
+
+.center {
+    text-align: center !important;
+}
+
+/* padding */
+
+.pd-10 {
+    padding: 10px !important;
+}
+
+.pd-left-20 {
+    padding-left: 20px !important;
+}
+
+.pd-right-20 {
+    padding-right: 20px !important;
+}
+
+/* color */
+
+.color-blue {
+    color: #5CADD3 !important;
+}

@@ -1,0 +1,42 @@
+@media(max-width: 784px) {
+    header {
+        flex-direction: column;
+        height: 100px;
+    }
+}
+
+@media(max-width: 985px) {
+    .container-services{
+        flex-direction: column;
+    }
+
+    .container-list {
+        width: 80%;
+    }
+    
+}
+
+@media(max-width: 390px) {
+    .project-container .project-item {
+        height: 190px;
+    }
+}
+
+@media(max-width: 474px) {
+    /* .filter {
+        flex-direction: column;
+    } */
+}
+
+@media(max-width: 962px) {
+   .box_formulaire {
+       justify-content: center;
+   }
+
+   .box_formulaire form {
+    width: 80%;
+    margin: 0
+   }
+
+    
+}
